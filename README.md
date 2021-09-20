@@ -1,4 +1,4 @@
-# Python-Projects-Generate-A-Story 🐍
+# Python Projects: Generate A Story 🐍
 This repo contains python code that generates a story.<br>
 Run the code.
 
